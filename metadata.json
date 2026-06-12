@@ -1,0 +1,6 @@
+{
+  "name": "Revenue Forecasting & Risk Analysis System",
+  "description": "An interactive environment featuring SQL ETL pipeline simulation, Python-based ARIMA/Regression forecasting engines, and a Power BI-style dashboard for revenue projections and proactive risk analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
